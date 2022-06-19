@@ -7,8 +7,8 @@ Uygulamam yöneticiler ve kullanıcılar için olmak üzere iki uygulamadan olu�
 Uygulamam java programlama dilinde yazılmıştır ve veri tabanı olarak firebase kullanılmıştır.
 
 
-<img src='https://github.com/Mehmet175/MekanIciYonTarifi/blob/main/program_1.gif' />
+<img src='https://github.com/Mehmet175/MekanIciYonTarifi/blob/main/program_1.gif' width="200" height="400"/>
 
 
 
-<img src='https://github.com/Mehmet175/MekanIciYonTarifi/blob/main/program_2.gif' />
+<img src='https://github.com/Mehmet175/MekanIciYonTarifi/blob/main/program_2.gif' width="200" height="400"/>
