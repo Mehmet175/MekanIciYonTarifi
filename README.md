@@ -5,3 +5,10 @@ Bu uygulamamda kapalı mekanlarda yön tarifi yapan bir proje yapılmıştır. U
 Uygulamam yöneticiler ve kullanıcılar için olmak üzere iki uygulamadan oluşmaktadır. 
 
 Uygulamam java programlama dilinde yazılmıştır ve veri tabanı olarak firebase kullanılmıştır.
+
+
+<img src='https://github.com/Mehmet175/MekanIciYonTarifi/blob/main/program_1.gif' />
+
+
+
+<img src='https://github.com/Mehmet175/MekanIciYonTarifi/blob/main/program_2.gif' />
