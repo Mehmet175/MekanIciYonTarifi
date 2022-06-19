@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/aaaaeeee.xml" value="0.18020833333333333" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/bkg.xml" value="0.2703125" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/dene.xml" value="0.18020833333333333" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17777777777777778" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/kat_3.xml" value="0.264" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/kat_4.xml" value="0.264" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/kenara_cizgi.xml" value="0.2703125" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/normal.xml" value="0.1" />
+        <entry key="..\:/AvmPYon/app/src/main/res/drawable/press.xml" value="0.1" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_avm_detay.xml" value="0.2" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_fotograf_gosterme.xml" value="0.16944444444444445" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_harita.xml" value="0.16944444444444445" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_konum_alma.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_magazalar.xml" value="0.16495901639344263" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_main_rv_card.xml" value="0.264" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/activity_yol_tarifi.xml" value="0.2" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/deneme.xml" value="0.16944444444444445" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/harita_info_alert_layout.xml" value="0.2" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/harita_view_pager_tasarim.xml" value="0.16701388888888888" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/view_pager_layout.xml" value="0.176" />
+        <entry key="..\:/AvmPYon/app/src/main/res/layout/yol_tarifi_rv_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmPYon/app/src/main/res/menu/info_menu.xml" value="0.16944444444444445" />
+        <entry key="..\:/AvmPYon/app/src/main/res/menu/konum_alma_toolbar_manu.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmPYon/app/src/main/res/menu/magaza_detay_search_menu.xml" value="0.16944444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

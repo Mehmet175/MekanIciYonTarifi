@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AvmP/app/src/main/res/drawable-v24/card_oval_cizgili.xml" value="0.1" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/activity_avm_ekleme.xml" value="0.264" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/activity_avm_magaza_ekleme.xml" value="0.264" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/activity_komsu_belirleme.xml" value="0.264" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/avm_listesi_card.xml" value="0.24547101449275363" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/avm_silme_aler.xml" value="0.264" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/denem.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/kerteriz_hesaplama_alertdialog_view.xml" value="0.25181159420289856" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/komsu_belirle_alertview_view.xml" value="0.24547101449275363" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/komsu_bilgileri_alma_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/listview_ortala.xml" value="0.25416666666666665" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/magaza_onu_ekleme.xml" value="0.264" />
+        <entry key="..\:/AvmP/app/src/main/res/layout/view_pager_tasarimi.xml" value="0.24818840579710144" />
+        <entry key="..\:/AvmP/app/src/main/res/menu/avm_ekleme_toolbar_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
